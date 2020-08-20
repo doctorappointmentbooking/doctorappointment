@@ -1,0 +1,2 @@
+# doctorappointment
+Doctor Appointment Booking Plugin is a dynamic plugin that allows you to accept bookings from customers and then accept or cancel the booking orders. Date booking and Slot booking is available and even you can make slots for your expected minutes. Booking pending Notification to customers and also to the controller admin. Booking confirmation email Notification or cancellation Notification to the customers. Weekly off days are will not be available for booking.
